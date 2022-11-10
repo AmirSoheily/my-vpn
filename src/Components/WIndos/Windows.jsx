@@ -11,7 +11,7 @@ function Windows() {
     >
       <div className="windosbtn">
         <Icon fontSize={200} icon="logos:microsoft-windows" />
-        <div> دانلود ورژن ویندوز</div>
+        <div> دانلود sورژن ویندوز</div>
       </div>
     </a>
   );
