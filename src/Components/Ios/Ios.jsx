@@ -4,7 +4,7 @@ function Ios() {
     <div className="windosbtn">
       <Icon fontSize={200} icon="logos:apple" />
       <div>
-        <a>دانلود ورژن آیفون</a>
+        <a>دانلود sورژن آیفون</a>
       </div>
     </div>
   );
